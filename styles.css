@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   min-height: 100vh;
-  background: #fafafa;
+  background: #d1d1d1;
 }
 
 .dropdown {
